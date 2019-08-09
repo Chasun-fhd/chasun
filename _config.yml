@@ -27,4 +27,4 @@ plugins:
 target-blank:
     rel: nofollow
 
-header_page_refs: ['最近动态', '关于', '联系我']
+header_page_refs: ['now', 'about', 'contact']
